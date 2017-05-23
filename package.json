@@ -1,0 +1,14 @@
+{
+  "name": "fd209-sim-demo",
+  "version": "1.0.0",
+  "description": "No description",
+  "main": "",
+  "scripts": {
+    "test": "NA"
+  },
+  "author": "",
+  "contributors": [{
+    "name": "Joshua McKinney"
+   }],
+  "license": "UNLICENSED"
+}
